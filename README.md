@@ -2,6 +2,8 @@
 
 - July 16, 2018 - [Learn React - React Crash Course 2018 - React Tutorial with Examples](https://www.youtube.com/watch?v=Ke90Tje7VS0)
 - [TicTacToe Tutorial](https://reactjs.org/tutorial/tutorial.html)
+- Themeforest React-Redux-Material-Firebase Admin Templates: [Fuse](http://react-material.fusetheme.com/apps/dashboards/analytics)
+- Themeforest React-Redux-Material-Firebase Admin Templates: [Isomorphic](http://themeforest.net)
 
 # Imports
 
