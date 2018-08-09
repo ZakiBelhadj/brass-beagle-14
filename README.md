@@ -5,10 +5,12 @@
 
 # Imports
 
+- [redux](https://www.npmjs.com/package/redux) `npm install --save redux`
+- [react-redux](https://www.npmjs.com/package/react-redux) `npm install --save react-redux`
 - [redux-form](https://www.npmjs.com/package/redux-form) `npm i -s redux-form`
   - [Material UI Example](https://redux-form.com/7.4.2/examples/material-ui/)
   - [Codesandbox](https://codesandbox.io/s/W6YnZm1po)
-- [react-redux-firebase]() `npm i -s redux-form`
+- [react-redux-firebase](https://github.com/prescottprue/react-redux-firebase) `npm install --save react-redux-firebase`
 
 ---
 

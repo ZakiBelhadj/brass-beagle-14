@@ -1,13 +1,10 @@
 import React from "react";
-import {
-  Field,
-  reduxForm
-} from "../../../../../../../Library/Caches/typescript/2.9/node_modules/@types/redux-form";
-import TextField from "material-ui/TextField";
-import { RadioButton, RadioButtonGroup } from "material-ui/RadioButton";
-import Checkbox from "material-ui/Checkbox";
-import SelectField from "material-ui/SelectField";
-import MenuItem from "material-ui/MenuItem";
+import { Field, reduxForm } from "redux-form";
+import TextField from "@material-ui/core/TextField";
+import { RadioButton, RadioButtonGroup } from "@material-ui/core/RadioGroup";
+import Checkbox from "@material-ui/core/Checkbox";
+import SelectField from "@material-ui/core/Select";
+import MenuItem from "@material-ui/core/MenuItem";
 import asyncValidate from "./asyncValidate";
 import validate from "./validate";
 
